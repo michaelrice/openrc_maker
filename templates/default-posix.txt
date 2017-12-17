@@ -1,0 +1,10 @@
+export OS_IDENTITY_API_VERSION=3
+export OS_AUTH_TYPE=v3token
+export OS_TOKEN=$token
+export OS_AUTH_URL=$auth_url
+export OS_IDENTITY_PROVIDER=$id_provider
+export OS_PROTOCOL=$protocol
+export OS_PROJECT_DOMAIN_NAME=$project_domain_name
+export OS_USERNAME=$username
+export OS_PROJECT_NAME=$project_name
+export OS_PROJECT_DOMAIN_ID=$project_domain_id

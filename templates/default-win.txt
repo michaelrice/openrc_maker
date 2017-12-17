@@ -1,0 +1,10 @@
+Set OS_IDENTITY_API_VERSION=3
+Set OS_AUTH_TYPE=v3token
+Set OS_TOKEN=$token
+Set OS_AUTH_URL=$auth_url
+Set OS_IDENTITY_PROVIDER=$id_provider
+Set OS_PROTOCOL=$protocol
+Set OS_PROJECT_DOMAIN_NAME=$project_domain_name
+Set OS_USERNAME=$username
+Set OS_PROJECT_NAME=$project_name
+Set OS_PROJECT_DOMAIN_ID=$project_domain_id
