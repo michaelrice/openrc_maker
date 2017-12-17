@@ -1,2 +1,2 @@
+-e git://github.com/michaelrice/pf9-saml-auth.git#egg=pf9_saml_auth
 click
-#-e git://github.com/michaelrice/pf9-saml-auth.git#egg=pf9_saml_auth
