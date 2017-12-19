@@ -81,6 +81,6 @@ import openrcgen
 def make_openrc(**kwargs):
     ks_token = getattr(token, kwargs.get("provider_type"))(**kwargs)
     openrcgen.make_file(token=ks_token, **kwargs)
-    pass
+    click.echo("Complete. Next source the file and use the OpenStack clients.")
 
 
