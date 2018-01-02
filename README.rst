@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/michaelrice/openrc_maker.svg?branch=master
+    :target: https://travis-ci.org/michaelrice/openrc_maker
+
 openrc_maker is a simple cli tool to help generate an openrc file for use with
 saml2 based providers so that you can use a v3token openrc file
 
